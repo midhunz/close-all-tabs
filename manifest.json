@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Close All Tabs",
+    "description": "Close all open tabs and create an empty tab",
+    "version": "0.0.1",
+    "icons": {
+        "48": "icons/48.png",
+        "128": "icons/128.png"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {}
+}
