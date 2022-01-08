@@ -1,4 +1,4 @@
-## Close-All-Tabs
+## <img src="https://raw.githubusercontent.com/midhunz/close-all-tabs/main/icons/48.png" width="20" height =""/>  Close-All-Tabs 
 This crome Extension extension allows users to quickly close all open tabs in all open windows
 
 [![GitHub issues](https://img.shields.io/github/issues/midhunz/close-all-tabs)](https://github.com/midhunz/close-all-tabs/issues)
