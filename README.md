@@ -6,7 +6,7 @@ This crome Extension extension allows users to quickly close all open tabs in al
 
 ## Install
 
-<a href="https://chrome.google.com/webstore/detail/notify-app/dokpofkkaggijbeeaeijobkhjfdijjec"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_128x128.png" width="48" /></a>
+<a href="https://chrome.google.com/webstore/detail/close-all-tabs/dlpdgeljpkenimejgdeaainabjjmknlp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_128x128.png" width="48" /></a>
 
 ### Screenshots
 
