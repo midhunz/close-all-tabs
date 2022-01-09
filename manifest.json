@@ -10,5 +10,11 @@
     "background": {
         "service_worker": "background.js"
     },
-    "action": {}
+    "action": {},
+    "commands": {
+        "inject-script": {
+          "suggested_key": "Ctrl+Shift+Y",
+          "description": "Inject a script on the page"
+        }
+      }
 }
