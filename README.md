@@ -11,7 +11,7 @@ This crome Extension extension allows users to quickly close all open tabs in al
 ### Screenshots
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/midhunz/close-all-tabs/main/docs/screenshots/close-tabs.png" width="2800" height =""/>
+  <img src="https://raw.githubusercontent.com/midhunz/close-all-tabs/develop/docs/screenshots/close-tabs.png" width="300" height =""/>
 </p>
 
 ### Contributing
